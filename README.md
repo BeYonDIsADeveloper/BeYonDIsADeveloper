@@ -1,4 +1,4 @@
-![logo](https://github.com/BeYonDIsADeveloper/BeYonDIsADeveloper/blob/main/programming-language-coding-banner-compilation-css-technology-210006161.jpg)
+![logo](https://img.freepik.com/premium-vector/web-development-coding-programming-futuristic-banner-computer-code-laptop_3482-5572.jpg?w=2000)
 <h1 align="center">Hi 👋, I'm BeYonD</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
