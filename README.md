@@ -1,4 +1,4 @@
-![logo](https://img.freepik.com/premium-vector/web-development-coding-programming-futuristic-banner-computer-code-laptop_3482-5572.jpg?w=2000)
+![logo](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/79731568097599.5b50bca477735.jpg)
 <h1 align="center">Hi 👋, I'm BeYonD</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
